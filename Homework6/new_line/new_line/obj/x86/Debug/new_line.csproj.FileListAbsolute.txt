@@ -1,5 +1,0 @@
-C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\new_line\new_line\bin\Debug\new_line.exe
-C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\new_line\new_line\bin\Debug\new_line.pdb
-C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\new_line\new_line\obj\x86\Debug\new_line.csprojResolveAssemblyReference.cache
-C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\new_line\new_line\obj\x86\Debug\new_line.exe
-C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\new_line\new_line\obj\x86\Debug\new_line.pdb
