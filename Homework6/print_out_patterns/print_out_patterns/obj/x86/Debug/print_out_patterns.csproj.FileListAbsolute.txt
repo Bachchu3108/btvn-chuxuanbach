@@ -1,0 +1,5 @@
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\print_out_patterns\print_out_patterns\obj\x86\Debug\print_out_patterns.csprojResolveAssemblyReference.cache
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\print_out_patterns\print_out_patterns\bin\Debug\print_out_patterns.exe
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\print_out_patterns\print_out_patterns\bin\Debug\print_out_patterns.pdb
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\print_out_patterns\print_out_patterns\obj\x86\Debug\print_out_patterns.exe
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 6\print_out_patterns\print_out_patterns\obj\x86\Debug\print_out_patterns.pdb
