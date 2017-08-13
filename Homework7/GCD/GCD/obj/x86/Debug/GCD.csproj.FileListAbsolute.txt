@@ -1,0 +1,5 @@
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 7\GCD\GCD\obj\x86\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 7\GCD\GCD\bin\Debug\GCD.exe
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 7\GCD\GCD\bin\Debug\GCD.pdb
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 7\GCD\GCD\obj\x86\Debug\GCD.exe
+C:\Users\VTS-Laptop\Documents\Code C#\BTVN 7\GCD\GCD\obj\x86\Debug\GCD.pdb

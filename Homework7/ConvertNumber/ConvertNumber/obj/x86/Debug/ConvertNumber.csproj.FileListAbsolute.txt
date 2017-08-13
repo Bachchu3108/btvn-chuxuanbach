@@ -1,0 +1,5 @@
+C:\Users\VTS-Laptop\Documents\Projects\ConvertNumber\ConvertNumber\obj\x86\Debug\ConvertNumber.csprojResolveAssemblyReference.cache
+C:\Users\VTS-Laptop\Documents\Projects\ConvertNumber\ConvertNumber\bin\Debug\ConvertNumber.exe
+C:\Users\VTS-Laptop\Documents\Projects\ConvertNumber\ConvertNumber\bin\Debug\ConvertNumber.pdb
+C:\Users\VTS-Laptop\Documents\Projects\ConvertNumber\ConvertNumber\obj\x86\Debug\ConvertNumber.exe
+C:\Users\VTS-Laptop\Documents\Projects\ConvertNumber\ConvertNumber\obj\x86\Debug\ConvertNumber.pdb
